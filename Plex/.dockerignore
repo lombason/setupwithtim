@@ -1,0 +1,6 @@
+_SAMPLE/
+Practice/
+# list all files docker container should ignore
+.gitignore
+# list all folders  docker container should ignore
+.git
